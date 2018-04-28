@@ -1,0 +1,15 @@
+.header-footer{
+	text-align: center;
+}
+
+body, .header-footer{
+	background-color: #E0E0E0;
+}
+
+main{
+	background-color: white;
+}
+
+#instructions{
+	text-align:center;
+}
